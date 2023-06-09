@@ -4,6 +4,10 @@
 
 ###
 
+<h1 align="center">Narcís Subatella Sánchez</h1>
+
+###
+
 <div align="center">
   <a href="https://www.linkedin.com/in/narcis-subatella/">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
@@ -30,10 +34,6 @@
 
 ###
 
-<h1 align="left">Narcís Subatella Sánchez</h1>
-
-###
-
 <h3 align="left">👩‍💻  About Me</h3>
 
 ###
@@ -46,7 +46,7 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/unity/FFFFFF" height="40" alt="unity logo"  />
@@ -78,6 +78,11 @@
 
 ###
 <div align="left">
-  <h3 >Vegansters</h3>
-  <img height="300" src="https://github.com/NarcisSubatella/NarcisSubatella/blob/main/Vegansters.jfif"  />
+  <h3>Vegansters</h3>
+  <img height="300" src="https://github.com/NarcisSubatella/NarcisSubatella/blob/main/Veganster.jpeg" />
+  <p>Tu texto descriptivo sobre el proyecto Vegansters...</p>
 </div>
+
+
+###
+
