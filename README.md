@@ -80,7 +80,7 @@
 <div align="left">
   <h3>Vegansters</h3>
   <img height="300" src="https://github.com/NarcisSubatella/NarcisSubatella/blob/main/Veganster.jpeg" />
-  <p>Tu texto descriptivo sobre el proyecto Vegansters...</p>
+  <p>DeckBuilder, Roguelike</p>
 </div>
 
 
