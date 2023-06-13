@@ -78,15 +78,17 @@
 
 ###
 <div align="left">
-  <h3>Vegansters</h3>
+  <h4>Vegansters</h4>
+  <h5>Poison Pill</h5>
   <img height="300" src="https://github.com/NarcisSubatella/NarcisSubatella/blob/main/Veganster.jpeg" />
   <p>DeckBuilder, Roguelike</p>
 </div>
 
 <div align="left">
-  <h3>Trazmoz Legends</h3>
-  <img height="300" src="https://twitter.com/i/status/1667121198897979393" />
-  <p>DeckBuilder, Roguelike</p>
+  <h4>Trazmoz Legends</h4>
+  <h5>Volcano Bytes</h5>
+  <img height="300" src="https://raw.githubusercontent.com/NarcisSubatella/NarcisSubatella/main/TrasmozLegends.avif" />
+  <p>A single screen arcade game, reminiscent of the beloved classics from the early 80's, based on the Trasmoz Saga for micro-computers.</p>
 </div>
 
 
