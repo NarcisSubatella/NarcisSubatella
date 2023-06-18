@@ -82,6 +82,9 @@
   <h5>Yager Development</h5>
   <img height="300" src="https://github.com/NarcisSubatella/NarcisSubatella/blob/main/TCF_S3.jpeg" />
   <p>AAA PvPvE Extraction Shooter game for a global audience. I provided support assuring the Qualityof season 3 features</p>
+   <a href="https://store.steampowered.com/app/868270/The_Cycle_Frontier/">
+    <img src="https://github.com/NarcisSubatella/NarcisSubatella/blob/main/Steam.png" height="40" alt="steam logo" />
+  </a>
 </div>
 
 ###
@@ -93,8 +96,8 @@
   <h4>Vegansters</h4>
   <h5>Poison Pill</h5>
   <img height="300" src="https://github.com/NarcisSubatella/NarcisSubatella/blob/main/Veganster.jpeg" />
-  <p>DeckBuilder, Roguelike</p>
-   <a href=" https://store.steampowered.com/app/2449390/Vegangsters/">
+  <p>WIP. DeckBuilder, Roguelike</p>
+   <a href="https://store.steampowered.com/app/2449390/Vegangsters/">
     <img src="https://github.com/NarcisSubatella/NarcisSubatella/blob/main/Steam.png" height="40" alt="steam logo" />
   </a>
 </div>
@@ -103,7 +106,7 @@
   <h4>Trazmoz Legends</h4>
   <h5>Volcano Bytes</h5>
   <img height="300" src="https://raw.githubusercontent.com/NarcisSubatella/NarcisSubatella/main/TrasmozLegends.avif" />
-  <p>A single screen arcade game, reminiscent of the beloved classics from the early 80's, based on the Trasmoz Saga for micro-computers.</p>
+  <p>WIP. A single screen arcade game, reminiscent of the beloved classics from the early 80's, based on the Trasmoz Saga for micro-computers.</p>
 </div>
 
 
