@@ -95,7 +95,7 @@
   <img height="300" src="https://github.com/NarcisSubatella/NarcisSubatella/blob/main/Veganster.jpeg" />
   <p>DeckBuilder, Roguelike</p>
    <a href=" https://store.steampowered.com/app/2449390/Vegangsters/">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
+    <img src="https://github.com/NarcisSubatella/NarcisSubatella/blob/main/Steam.png" height="40" alt="steam logo" />
   </a>
 </div>
 
