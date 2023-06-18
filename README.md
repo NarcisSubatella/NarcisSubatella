@@ -74,6 +74,18 @@
 
 ###
 
+<h3 align="left">🕹   QA Intern :</h3>
+
+###
+<div align="left">
+  <h4>The Cycle Frontier</h4>
+  <h5>Yager Development</h5>
+  <img height="300" src="https://github.com/NarcisSubatella/NarcisSubatella/blob/main/Veganster.jpeg" />
+  <p>DeckBuilder, Roguelike</p>
+</div>
+
+###
+
 <h3 align="left">🕹   Side Projects :</h3>
 
 ###
