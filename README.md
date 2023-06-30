@@ -97,9 +97,12 @@
   <h5>Poison Pill</h5>
   <img height="300" src="https://github.com/NarcisSubatella/NarcisSubatella/blob/main/Veganster.jpeg" />
   <p>WIP. DeckBuilder, Roguelike</p>
+  <div align="left">
    <a href="https://store.steampowered.com/app/2449390/Vegangsters/">
     <img src="https://github.com/NarcisSubatella/NarcisSubatella/blob/main/Steam.png" height="40" alt="steam logo" />
   </a>
+    <a href="https://www.kickstarter.com/projects/vegangsters/vegangsters-a-roguelike-deckbuilder-video-game?ref=clipboard-prelaunch">
+    <img src="https://github.com/NarcisSubatella/NarcisSubatella/blob/main/kickstarter_logo.png" height="40" alt="steam logo" />
 </div>
 
 <div align="left">
