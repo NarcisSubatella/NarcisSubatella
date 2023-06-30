@@ -105,7 +105,7 @@
 <div align="left">
   <h4>Trazmoz Legends</h4>
   <h5>Volcano Bytes</h5>
-  <img height="300" src="https://raw.githubusercontent.com/NarcisSubatella/NarcisSubatella/main/TrasmozLegends.avif" />
+  <img height="300" src="https://github.com/NarcisSubatella/NarcisSubatella/blob/main/TrasmozLegends.jpg" />
   <p>WIP. A single screen arcade game, reminiscent of the beloved classics from the early 80's, based on the Trasmoz Saga for micro-computers.</p>
 </div>
 
