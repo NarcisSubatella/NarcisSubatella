@@ -107,6 +107,9 @@
   <h5>Volcano Bytes</h5>
   <img height="300" src="https://github.com/NarcisSubatella/NarcisSubatella/blob/main/TrasmozLegends.jpg" />
   <p>WIP. A single screen arcade game, reminiscent of the beloved classics from the early 80's, based on the Trasmoz Saga for micro-computers.</p>
+  <a href="https://www.kickstarter.com/projects/volcanobytes/trasmoz-legends-retro-arcade-game?ref=thanks-tweet">
+    <img src="https://github.com/NarcisSubatella/NarcisSubatella/blob/main/kickstarter_logo.png" height="40" alt="steam logo" />
+  </a>
 </div>
 
 
