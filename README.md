@@ -82,6 +82,10 @@
   <h5>Yager Development</h5>
   <img height="300" src="https://github.com/NarcisSubatella/NarcisSubatella/blob/main/TCF_S3.jpeg" />
   <p>AAA PvPvE Extraction Shooter game for a global audience. I provided support assuring the quality of season 3 features</p>
+   <div align="left">
+     <a href="https://thecycle.game/en">
+    <img src="https://github.com/NarcisSubatella/NarcisSubatella/blob/main/www.png" height="40" alt="steam logo" />
+  </a>
    <a href="https://store.steampowered.com/app/868270/The_Cycle_Frontier/">
     <img src="https://github.com/NarcisSubatella/NarcisSubatella/blob/main/Steam.png" height="40" alt="steam logo" />
   </a>
@@ -98,11 +102,15 @@
   <img height="300" src="https://github.com/NarcisSubatella/NarcisSubatella/blob/main/Veganster.jpeg" />
   <p>WIP. DeckBuilder, Roguelike</p>
   <div align="left">
+    <a href="https://poisonpillgames.com/en/">
+    <img src="https://github.com/NarcisSubatella/NarcisSubatella/blob/main/www.png" height="40" alt="steam logo" />
+  </a>
    <a href="https://store.steampowered.com/app/2449390/Vegangsters/">
     <img src="https://github.com/NarcisSubatella/NarcisSubatella/blob/main/Steam.png" height="40" alt="steam logo" />
   </a>
     <a href="https://www.kickstarter.com/projects/vegangsters/vegangsters-a-roguelike-deckbuilder-video-game?ref=clipboard-prelaunch">
     <img src="https://github.com/NarcisSubatella/NarcisSubatella/blob/main/kickstarter_logo.png" height="40" alt="steam logo" />
+  </a>
 </div>
 
 <div align="left">
